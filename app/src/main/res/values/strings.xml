@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Karaoke QR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="loading">Loading...</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="logout">Logout</string>
+</resources>
